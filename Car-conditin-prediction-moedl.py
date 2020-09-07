@@ -1,3 +1,11 @@
+#This is car condition prediction model
+''' 
+In this i used sklearn for testing,training and predicting
+And also used pandas for dataframe 
+'''
+
+
+
 import numpy as np
 import pandas as pd
 from sklearn import neighbors, metrics
